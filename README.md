@@ -6,4 +6,4 @@ before running the this script:
    pip install webdriver_manager
    
    add your user name and password
-   and also you can change the hashtags in the hastag list
+   and also you can change the hashtags in the hash_tag list

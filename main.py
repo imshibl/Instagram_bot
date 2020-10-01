@@ -4,6 +4,8 @@ from selenium import webdriver
 import time
 import random
 
+
+#provide your credentials here
 insta_id = ""
 insta_password = ""
 clock = random.randint(2, 4)

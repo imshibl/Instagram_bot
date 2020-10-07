@@ -5,7 +5,7 @@ import time
 import random
 
 
-#put creds here
+#comment added
 insta_id = ""
 insta_password = ""
 clock = random.randint(2, 4)

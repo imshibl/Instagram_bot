@@ -6,9 +6,9 @@ import random
 
 
 
-insta_id = ""
-insta_password = ""
-clock = random.randint(2, 4)
+# insta_id = ""
+# insta_password = ""
+# clock = random.randint(2, 4)
 
 
 browser = webdriver.Chrome(ChromeDriverManager().install())
